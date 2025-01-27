@@ -1791,7 +1791,7 @@
               () => (o > 1200 ? "23%" : o > 556 ? "40%" : "100%"),
               [o]
             );
-          return (0, i.jsxs)(eo, {
+          return ; (0, i.jsxs)(eo, {
             id: "team",
             children: [
               (0, i.jsxs)("div", {
